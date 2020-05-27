@@ -1,0 +1,332 @@
+{
+  "fighters" : [
+    {
+      "name" : "mario",
+      "percent" : 60
+    },
+    {
+      "name" : "donkeykong",
+      "percent" : 72
+    },
+    {
+      "name" : "link",
+      "percent" : 63
+    },
+    {
+      "name" : "samus",
+      "percent" : 66
+    },
+    {
+      "name" : "darksamus",
+      "percent" : 63
+    },
+    {
+      "name" : "yoshi",
+      "percent" : 63
+    },
+    {
+      "name" : "kirby",
+      "percent" : 52
+    },
+    {
+      "name" : "fox",
+      "percent" : 51
+    },
+    {
+      "name" : "pikachu",
+      "percent" : 53
+    },
+    {
+      "name" : "luigi",
+      "percent" : 60
+    },
+    {
+      "name" : "ness",
+      "percent" : 59
+    },
+    {
+      "name" : "captainfalcon",
+      "percent" : 54
+    },
+    {
+      "name" : "jigglypuff",
+      "percent" : 47
+    },
+    {
+      "name" : "peach",
+      "percent" : 57
+    },
+    {
+      "name" : "daisy",
+      "percent" : 57
+    },
+    {
+      "name" : "bowser",
+      "percent" : 78
+    },
+    {
+      "name" : "iceclimbers",
+      "percent" : 59
+    },
+    {
+      "name" : "sheik",
+      "percent" : 51
+    },
+    {
+      "name" : "zelda",
+      "percent" : 55
+    },
+    {
+      "name" : "drmario",
+      "percent" : 60
+    },
+    {
+      "name" : "pichu",
+      "percent" : 44
+    },
+    {
+      "name" : "falco",
+      "percent" : 54
+    },
+    {
+      "name" : "marth",
+      "percent" : 58
+    },
+    {
+      "name" : "lucina",
+      "percent" : 58
+    },
+    {
+      "name" : "young link",
+      "percent" : 56
+    },
+    {
+      "name" : "ganondorf",
+      "percent" : 67
+    },
+    {
+      "name" : "mewtwo",
+      "percent" : 51
+    },
+    {
+      "name" : "roy",
+      "percent" : 60
+    },
+    {
+      "name" : "chrom",
+      "percent" : 60
+    },
+    {
+      "name" : "mrgameandwatch",
+      "percent" : 50
+    },
+    {
+      "name" : "metaknight",
+      "percent" : 52
+    },
+    {
+      "name" : "pit",
+      "percent" : 59
+    },
+    {
+      "name" : "darkpit",
+      "percent" : 59
+    },
+    {
+      "name" : "zerosuitsamus",
+      "percent" : 53
+    },
+    {
+      "name" : "wario",
+      "percent" : 63
+    },
+    {
+      "name" : "snake",
+      "percent" : 64
+    },
+    {
+      "name" : "ike",
+      "percent" : 64
+    },
+    {
+      "name" : "squirtle",
+      "percent" : 50
+    },
+    {
+      "name" : "ivysaur",
+      "percent" : 60
+    },
+    {
+      "name" : "charizard",
+      "percent" : 69
+    },
+    {
+      "name" : "diddykong",
+      "percent" : 57
+    },
+    {
+      "name" : "lucas",
+      "percent" : 59
+    },
+    {
+      "name" : "sonic",
+      "percent" : 56
+    },
+    {
+      "name" : "kingdedede",
+      "percent" : 73
+    },
+    {
+      "name" : "olimar",
+      "percent" : 53
+    },
+    {
+      "name" : "lucario",
+      "percent" : 59
+    },
+    {
+      "name" : "rob",
+      "percent" : 64
+    },
+    {
+      "name" : "toonlink",
+      "percent" : 58
+    },
+    {
+      "name" : "wolf",
+      "percent" : 58
+    },
+    {
+      "name" : "villager",
+      "percent" : 59
+    },
+    {
+      "name" : "megaman",
+      "percent" : 63
+    },
+    {
+      "name" : "wiifittrainer",
+      "percent" : 59
+    },
+    {
+      "name" : "rosalinaandluma",
+      "percent" : 54
+    },
+    {
+      "name" : "littlemac",
+      "percent" : 57
+    },
+    {
+      "name" : "greninja",
+      "percent" : 56
+    },
+    {
+      "name" : "palutena",
+      "percent" : 57
+    },
+    {
+      "name" : "pacman",
+      "percent" : 60
+    },
+    {
+      "name" : "robin",
+      "percent" : 60
+    },
+    {
+      "name" : "shulk",
+      "percent" : 60
+    },
+    {
+      "name" : "bowser Jr",
+      "percent" : 60
+    },
+    {
+      "name" : "duckhunt",
+      "percent" : 57
+    },
+    {
+      "name" : "ryu",
+      "percent" : 65
+    },
+    {
+      "name" : "ken",
+      "percent" : 65
+    },
+    {
+      "name" : "cloud",
+      "percent" : 61
+    },
+    {
+      "name" : "corrin",
+      "percent" : 60
+    },
+    {
+      "name" : "bayonetta",
+      "percent" : 53
+    },
+    {
+      "name" : "inkling",
+      "percent" : 59
+    },
+    {
+      "name" : "ridley",
+      "percent" : 65
+    },
+    {
+      "name" : "simon",
+      "percent" : 65
+    },
+    {
+      "name" : "richter",
+      "percent" : 65
+    },
+    {
+      "name" : "kingkrool",
+      "percent" : 75
+    },
+    {
+      "name" : "isabelle",
+      "percent" : 57
+    },
+    {
+      "name" : "incineroar",
+      "percent" : 67
+    },
+    {
+      "name" : "piranhaplant",
+      "percent" : 66
+    },
+    {
+      "name" : "joker",
+      "percent" : 57
+    },
+    {
+      "name" : "hero",
+      "percent" : 62
+    },
+    {
+      "name" : "banjoandkazooie",
+      "percent" : 62
+    },
+    {
+      "name" : "terry",
+      "percent" : 67
+    },
+    {
+      "name" : "byleth",
+      "percent" : 61
+    },
+    {
+      "name" : "miibrawler",
+      "percent" : 58
+    },
+    {
+      "name" : "miigunner",
+      "percent" : 61
+    },
+    {
+      "name" : "miiswordsfighter",
+      "percent" : 63
+    }
+  ]
+}
