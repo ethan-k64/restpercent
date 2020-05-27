@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Rest Percents</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="utf-8" />
+
+</head>
+
+<body>
+  <div>
+    <h1 id="title">Rest Percents</h1>
+  </div>
+
+  <div>
+    <h3>Rules:</h3>
+    <ol id="list">
+      <li>Names can't have spaces.</li>
+      <li>Names have to be lower case.</li>
+      <li>Names can't have special characters.</li>
+    </ol>
+  </div>
+
+  <div>
+    <label for="charInput">Enter character name: </label>
+    <input id="charInput" name="charInput">
+  </div>
+
+  <br>
+  
+  <div>
+    <table style="width:25%">
+      <tr>
+        <th>Name</th>
+        <th>Percent</th>
+      </tr>
+      <tr>
+        <td id="charName">Name</td>
+        <td id="charPercent">Percent</td>
+      </tr>
+    </table>
+  </div>
+  
+  <br>
+  
+  <div>
+    <span>JSON Download: </span>
+    <a href="./characters.json" download="characters.json">characters.json</a>
+  </div>
+
+  <script src="sketch.js"></script>
+</body>
+
+</html>
